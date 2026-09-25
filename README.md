@@ -39,10 +39,3 @@ Jangan ragu untuk menghubungi saya melalui kontak di bawah ini:
 </a>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghazalyy&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalyy&layout=compact&theme=radical" height="150" alt="languages graph" />
-</div>
